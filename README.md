@@ -100,3 +100,12 @@ Jenkins инстанс с двумя нодами: Master и Worker. Настр�
 У меня есть это в планах — настроить read-only access, чтобы системы можно было пощупать и посмотреть, как все это работает.
 
 Но пока этого нет.
+
+
+## Contacts
+
+![telegram](images/telegram.svg) [@marat_talipov](https://t.me/marat_talipov)
+
+![telegram](images/email.svg)[t-marat@yandex.ru](mailto:t-marat@yandex.ru)
+
+![telegram](images/github.svg) [Morion-Self](https://github.com/Morion-Self)
