@@ -108,6 +108,6 @@ Jenkins инстанс с двумя нодами: Master и Worker. Настр�
 
 ![telegram](images/telegram.svg) [@marat_talipov](https://t.me/marat_talipov)
 
-![telegram](images/email.svg)[t-marat@yandex.ru](mailto:t-marat@yandex.ru)
+![telegram](images/email.svg) [t-marat@yandex.ru](mailto:t-marat@yandex.ru)
 
 ![telegram](images/github.svg) [Morion-Self](https://github.com/Morion-Self)
